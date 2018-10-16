@@ -1,2 +1,3 @@
-# banas-kotlin-code
-The code from the Derek Banas video on Kotlin
+# Learn Kotlin in one video
+
+The code from the Derek Banas video on Kotlin.
